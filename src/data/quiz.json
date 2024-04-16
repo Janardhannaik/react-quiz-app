@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "question": "Which of the following is used in React.js to increase performance?",
+      "choices": ["virtual Domain", "Origin domain", "A&B", "none"],
+      "answer": "virtual Domain"
+    },
+    {
+      "question": "What does JSX stand for?",
+      "choices": ["javascript", "xml", "syntax", "Function"],
+      "answer": "xml"
+    },
+    {
+      "question": "Which of the following acts as the input of a class-based component?",
+      "choices": ["class", "props", "syntax", "javascript"],
+      "answer": "props"
+    },
+    {
+      "question": "React.js is written in which of the following language?",
+      "choices": ["python", "c++", "javascript", "java"],
+      "answer": "javascript"
+    },
+    {
+      "question": "Which of the following is method is not a part of ReactDOM?",
+      "choices": [
+        "ReactDOM.hydrate()",
+        "ReactDOM.destroy()",
+        "ReactDOM.createPortal()",
+        "none"
+      ],
+      "answer": "ReactDOM.destroy()"
+    },
+    {
+      "question": "Which method is used to render a React component to the DOM? ",
+      "choices": [
+        "renderComponent()",
+        "ReactDOM.render() ",
+        "React.render() ",
+        "component.render() "
+      ],
+      "answer": "ReactDOM.render()"
+    },
+    {
+      "question": "What is React primarily used for?",
+      "choices": [
+        "Building mobile apps",
+        "Server-side processing",
+        "Building user interfaces",
+        "Data analysis"
+      ],
+      "answer": "Building user interfaces"
+    },
+    {
+      "question": "Which feature of React allows it to efficiently update the UI?",
+      "choices": ["Real DOM", "Virtual DOM", "Shadow DOM", "Document Fragment"],
+      "answer": "Virtual DOM"
+    },
+    {
+      "question": "In JSX, how do you express JavaScript variables?",
+      "choices": [
+        "Inside curly braces",
+        "Inside square brackets",
+        "Inside single quotes",
+        "Inside parentheses"
+      ],
+      "answer": "Inside curly braces"
+    }
+  ]
+}
